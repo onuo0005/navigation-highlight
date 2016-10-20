@@ -55,6 +55,14 @@ footer {
   padding: 10px;
 }
 
+nav li a:hover {
+  background-color: #cc1465;
+}
+
+nav .current {
+  background-color: #cc1465;
+}
+
 *, *::before, *::after {
   box-sizing: inherit;
 }
